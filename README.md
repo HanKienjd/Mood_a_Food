@@ -23,3 +23,6 @@ This repository is based on my YouTube tutorial series where I'm creating a comp
 - [React Native Social Share](https://youtu.be/vXzpEJeVmi8)
 - [App Home Screen UI with Vertical Image Slider](https://www.youtube.com/watch?v=GXe3EuVog9c)
 - [Animated Header in React Native](https://youtu.be/JqlYrpoExE8)
+
+## Build and Run:
+- npm install
